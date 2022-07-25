@@ -1,30 +1,32 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 24th, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- I completed a 6kyu Kata (Mexican Wave) on CodeWars: [link to kata](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+- I created WebDev Trivial Pursuit game board options. 
+- I worked on My Favorite Monsters CRUD app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+- [WebDev Trivial Pursuit branch](https://github.com/jenanemone/100Devs-Trivial-Pursuit/tree/squareWheel)
+- [CodeWars: Mexican Wave](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/mexicanWave.js)
+- [My Favorite Monsters CRUD app](https://github.com/jenanemone/MonstersDatabaseCRUD)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: July 25th, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 2: July 26th, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
