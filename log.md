@@ -5,9 +5,10 @@
 **Today's Progress**:
 - I completed a 6kyu Kata (Mexican Wave) on CodeWars: [link to kata](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
 - I created WebDev Trivial Pursuit game board options. 
-- I worked on My Favorite Monsters CRUD app.
+- I worked on My Favorite Monsters CRUD app. 
 
 **Thoughts:** 
+I really need a better handle on how server.js and main.js communicate for UPDATE & DELETE methods.
 
 **Link to work:** 
 - [WebDev Trivial Pursuit branch](https://github.com/jenanemone/100Devs-Trivial-Pursuit/tree/squareWheel)
