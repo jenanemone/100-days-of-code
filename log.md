@@ -19,11 +19,14 @@ I really need a better handle on how server.js and main.js communicate for UPDAT
 
 **Today's Progress**: 
 - Completed 6kyu on CodeWars, ["Find the odd int"](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- Studied linked lists in JavaScript with the All Things Web group
+- Completed 7kyu on CodeWars, ["Small enough? - Beginner"](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 [Find the odd int](https://github.com/jenanemone/codeWarsSolutions/commit/29a823c90540762f5384b0a7e5b298d1fe223b43)
+[Small enough](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/smallEnough-Beginner.js)
 
 ### Day 2: July 26th, 2022
 
