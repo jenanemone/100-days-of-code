@@ -18,11 +18,12 @@ I really need a better handle on how server.js and main.js communicate for UPDAT
 ### Day 1: July 25th, 2022
 
 **Today's Progress**: 
+- Completed 6kyu on CodeWars, ["Find the odd int"](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 **Thoughts**: 
 
 **Link(s) to work**: 
-
+[Find the odd int](https://github.com/jenanemone/codeWarsSolutions/commit/29a823c90540762f5384b0a7e5b298d1fe223b43)
 
 ### Day 2: July 26th, 2022
 
