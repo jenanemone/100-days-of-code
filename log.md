@@ -31,7 +31,17 @@ I really need a better handle on how server.js and main.js communicate for UPDAT
 ### Day 2: July 26th, 2022
 
 **Today's Progress**: 
+- Walked a friend through the basics of working with APIs
+- Read through and thoroughly understood a todo app
+- Monsters Delete Attempt #3
+- 7kyu on CodeWars: [Flatten and Sort an Array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+- 6kyu on CodeWars: [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
+- 5kyu on CodeWars: [Moving Zeros to the End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
 **Thoughts** 
+.flat() can be replaced with the following reduce and concat methods: ```array.reduce((acc,val) => acc.concat(val), [])```
 
 **Link(s) to work**
+- [7kyu: Flatten and Sort an Array](https://github.com/jenanemone/codeWarsSolutions/blob/f5b35c058494df797fd63832e09035888da8250c/7kyu/flattenSortArray.js)
+- [6kyu: Array.Diff](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/arrayDiff.js)
+- [5kyu: Moving Zeros to the End](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/movingZerosToEnd.js)
