@@ -51,6 +51,8 @@ I really need a better handle on how server.js and main.js communicate for UPDAT
 **Today's Progress**: 
 - [7kyu CodeWars: Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
 - Debugged Monsters CRUD delete! Hurray!
+- Coffee chat with one old friend (the inimitable Bob Fornal)
+- Coffee chat with one new friend, Bobbi from the OG 100Devs
 
 **Thoughts** 
 The event listener wasn't triggering, because I used querySelector without the "." for the class designation. 
