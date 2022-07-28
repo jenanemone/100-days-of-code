@@ -45,3 +45,16 @@ I really need a better handle on how server.js and main.js communicate for UPDAT
 - [7kyu: Flatten and Sort an Array](https://github.com/jenanemone/codeWarsSolutions/blob/f5b35c058494df797fd63832e09035888da8250c/7kyu/flattenSortArray.js)
 - [6kyu: Array.Diff](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/arrayDiff.js)
 - [5kyu: Moving Zeros to the End](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/movingZerosToEnd.js)
+
+### Day 3: July 27th, 2022
+
+**Today's Progress**: 
+- [7kyu CodeWars: Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
+- Debugged Monsters CRUD delete! Hurray!
+
+**Thoughts** 
+The event listener wasn't triggering, because I used querySelector without the "." for the class designation. 
+
+**Link(s) to work**
+- [7kyu Codewars: Anagram Detection](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/anagramDetection.js)
+- [Monsters](https://github.com/jenanemone/MonstersDatabaseCRUD)
