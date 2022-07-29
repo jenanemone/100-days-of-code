@@ -60,3 +60,15 @@ The event listener wasn't triggering, because I used querySelector without the "
 **Link(s) to work**
 - [7kyu Codewars: Anagram Detection](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/anagramDetection.js)
 - [Monsters](https://github.com/jenanemone/MonstersDatabaseCRUD)
+
+### Day 4: July 28th, 2022
+
+**Today's Progress**: 
+- Created most routes with Poornima & David for Schitter, the Schitty Twitter for Trolls
+- [CodeWars 8kyu: Find the Nearest Square Number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba)
+
+**Thoughts** 
+- Need to go deeper on routing and retrieving/storing MongoDB documents.
+
+**Link(s) to work**
+[Find the Nearest Square Number](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/findNearestSquareNum.js)
