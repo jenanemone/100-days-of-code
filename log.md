@@ -72,3 +72,20 @@ The event listener wasn't triggering, because I used querySelector without the "
 
 **Link(s) to work**
 [Find the Nearest Square Number](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/findNearestSquareNum.js)
+
+### Day 5: July 29th, 2022
+
+**Today's Progress**: 
+- [CodeWars 7kyu: Largest pair sum in array](https://www.codewars.com/kata/556196a6091a7e7f58000018)
+- [CodeWars 7kyu: Alphabet War](https://www.codewars.com/kata/59377c53e66267c8f6000027)
+- [CodeWars 7kyu: Last Survivor](https://www.codewars.com/kata/609eee71109f860006c377d1)
+- [Updated portfolio](https://jenanemone.netlify.app)
+
+**Thoughts** 
+I accidentally pushed my mobileFirst branch to main, which means that my new version is live on Netlify. I don't know how I feel about this, but it's late, and I clearly need to start taking better notes about long-term projects.
+
+**Link(s) to work**
+- [7kyu: Largest pair sum in array](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/largestPairSumInArr.js)
+- [7kyu: Alphabet War](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/alphabetWar.js)
+- [7kyu: Last Survivor](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/lastSurvivor.js)
+- [Portfolio](https://github.com/jenanemone/Portfolio/tree/main)
