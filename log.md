@@ -89,3 +89,17 @@ I accidentally pushed my mobileFirst branch to main, which means that my new ver
 - [7kyu: Alphabet War](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/alphabetWar.js)
 - [7kyu: Last Survivor](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/lastSurvivor.js)
 - [Portfolio](https://github.com/jenanemone/Portfolio/tree/main)
+
+### Day 6: July 30th, 2022
+
+**Today's Progress**: 
+- [CodeWars 8kyu: Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
+- [CodeWars 7kyu: Colour Association](https://www.codewars.com/kata/56d6b7e43e8186c228000637)
+
+**Thoughts** 
+Reviewing 2D arrays was helpful in solving the 7kyu. Square brackets to indicate the inner layer should be sequentially placed, not nested.
+
+**Link(s) to work**
+- [Super Duper Easy](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/superDuperEasy.js)
+- [Colour Association](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/colourAssociation.js)
+
