@@ -103,3 +103,26 @@ Reviewing 2D arrays was helpful in solving the 7kyu. Square brackets to indicate
 - [Super Duper Easy](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/superDuperEasy.js)
 - [Colour Association](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/colourAssociation.js)
 
+### Day 7: July 31th, 2022
+- Resolved issue with todo list and created pull request for the original.
+- Created my own version of the to-do app, and applied some styling.
+- [5kyu: Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+- [Leetcode 3: Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Leetcode 191: Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [Leetcode 1929: Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+- [CodeWars 7kyu: First Nonrepeated Character In A String](https://www.codewars.com/kata/570f6436b29c708a32000826)
+
+**Thoughts** 
+I've solved valid parentheses problems before. I think I came up with a better solution, and one that may also work with multiple types, although I haven't tested that out yet.
+
+HTML comments cannot be inside of EJS statements. 
+
+I don't know what unsigned and signed integers are, so that's something to study further.
+
+**Link(s) to work**
+- [Code for todo list](https://github.com/jenanemone/todo-list-express)
+- [Leetcode 3: longest substring](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/longestSubstrNOrepeat.js)
+- [Leetcode 191: 1 Bits](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/numberOf1Bits.js)
+- [Leetcode 1929](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/concatenationOfArray.js)
+- [CodeWars valid parentheses](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/validParentheses.js)
+- [CodeWars non-repeated chars](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/firstNonrepeatedChar.js)
