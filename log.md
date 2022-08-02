@@ -104,6 +104,7 @@ Reviewing 2D arrays was helpful in solving the 7kyu. Square brackets to indicate
 - [Colour Association](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/colourAssociation.js)
 
 ### Day 7: July 31th, 2022
+
 - Resolved issue with todo list and created pull request for the original.
 - Created my own version of the to-do app, and applied some styling.
 - [5kyu: Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
@@ -126,3 +127,19 @@ I don't know what unsigned and signed integers are, so that's something to study
 - [Leetcode 1929](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/concatenationOfArray.js)
 - [CodeWars valid parentheses](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/validParentheses.js)
 - [CodeWars non-repeated chars](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/firstNonrepeatedChar.js)
+
+### Day 8: August 1st, 2022
+- All Things Web group session on linked lists
+- [CodeWars 8kyu: Grasshopper - Create the rooms](https://www.codewars.com/kata/56a29b237e9e997ff2000048)
+- [CodeWars 8kyu: Grasshopper - Terminal Game Combat Function](https://www.codewars.com/kata/grasshopper-terminal-game-combat-function-1)
+- [CodeWars 8kyu: Grasshopper - Terminal Game 1](https://www.codewars.com/kata/55e8aba23d399a59500000ce)
+
+**Thoughts**
+Today was a light day, thanks to 12 hours behind the wheel. I'll need to go back and watch the rest of the group session from tonight when I'm fresh. 
+
+I'd love to know more about testing in JavaScript. I recognize 'assert' from Python testing.
+
+**Link(s) to work**
+- [Grasshopper Rooms](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-createRooms.js)
+- [Grasshopper Combat](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-GameCombatFunc.js)
+- [Grasshopper Game 1](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-terminalGame1.js)
