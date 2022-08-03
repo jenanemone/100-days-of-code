@@ -143,3 +143,24 @@ I'd love to know more about testing in JavaScript. I recognize 'assert' from Pyt
 - [Grasshopper Rooms](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-createRooms.js)
 - [Grasshopper Combat](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-GameCombatFunc.js)
 - [Grasshopper Game 1](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-terminalGame1.js)
+
+### Day 9: August 2nd, 2022
+- [CodeWars 8kyu: Grasshopper - Terminal Game Turn Function](https://www.codewars.com/kata/56019d3b2c39ccde76000086)
+- [Grasshopper Combine Strings](https://www.codewars.com/kata/55f73f66d160f1f1db000059)
+- Helped a friend debug a CRUD app/MongoDB issue
+- [CodeWars 8kyu: Grasshopper - Order of Operations](https://www.codewars.com/kata/grasshopper-order-of-operations)
+- [LeetCode 435: Non-Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- Anki
+- Class with Leon!
+- Study group to teach 2 CodeWars katas previously solved
+- Fixed CSS on todo app & broke the functionality again somehow!
+
+**Thoughts**
+
+
+**Link(s) to work**
+- [Grasshopper Turn](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-terminalGameTurn.js)
+- [Grasshopper Combine Strings](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-terminalGameTurn.js)
+- [Grasshopper - Order Operations](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-orderOperations.js)
+- [LeetCode Intervals](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/435nonOverlappingIntervals.js)
+
