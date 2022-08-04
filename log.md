@@ -164,3 +164,16 @@ I'd love to know more about testing in JavaScript. I recognize 'assert' from Pyt
 - [Grasshopper - Order Operations](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-orderOperations.js)
 - [LeetCode Intervals](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/435nonOverlappingIntervals.js)
 
+
+### Day 10: August 3rd, 2022
+- [LeetCode 937. Reorder Data Log Files](https://leetcode.com/problems/reorder-data-in-log-files)
+- Baffled once again by my todo app being broken by added styling.
+- [CodeWars 8kyu: Grasshopper - debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
+
+**Thoughts**
+I need to spend less time toiling over problems that aren't quick for me to solve, so that I have the time I need to study other people's solutions and then copy it out. When I encounter these, I need to schedule a time to practice these.
+
+**Link(s) to Work**
+- [LeetCode 937](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/937reorderDataLogFiles.js)
+- [Grasshopper Debug](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-debug.js)
+
