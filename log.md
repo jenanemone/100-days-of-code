@@ -177,3 +177,52 @@ I need to spend less time toiling over problems that aren't quick for me to solv
 - [LeetCode 937](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/937reorderDataLogFiles.js)
 - [Grasshopper Debug](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-debug.js)
 
+
+### Day 11: August 4th, 2022
+- [CodeWars 8kyu: Grasshopper - Bug Squashing](https://www.codewars.com/kata/grasshopper-bug-squashing)
+- [CodeWars 8kyu: Grasshopper - Object syntax debug](https://www.codewars.com/kata/grasshopper-object-syntax-debug)
+- [CodeWars 7kyu: Odd-Even String Sort](https://www.codewars.com/kata/580755730b5a77650500010c)
+- [CodeWars 6kyu: replaceall(input,find,replace)](https://www.codewars.com/kata/52aaf51822e82a808100066b)
+- [CodeWars 6kyu: IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
+- Taught [CodeWars 6kyu: Unique in Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript)
+- Taught [CodeWars 6kyu: Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [CodeWars 5kyu: Playing with Two Strings](https://www.codewars.com/kata/56c30ad8585d9ab99b000c54)
+- Fixed the todo app! It's live [here](https://jennies-todo-list.herokuapp.com/)
+
+**Thoughts**
+EJS will not allow tags to be on a different line from the tags you are manipulating. 
+
+**Link(s) to Work**
+- [Bug Squashing](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-bugSquashing.js)
+- [Object syntax](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-ObjectSyntaxDebug.js)
+- [Odd Even](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/oddEvenStringSort.js)
+- [replaceAll](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/replaceAll.js)
+- [Unique in Order](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/uniqueInOrder.js)
+- [Multiples of 3 or 5](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/multiplesOf3and5.js)
+- [Playing with Two String](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/playWithTwoStrings.js)
+- [todo app](https://github.com/jenanemone/todo-list-express)
+
+
+### Day 12: August 5th, 2022
+- [Traversy Media Video](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+- Studied memoization
+- Created new format of resume
+
+
+### Day 13: August 6th, 2022
+- Looked at old blog posts I started (and once again passed them up as terrible)
+- [CodeWars 7kyu: Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+- [CodeWars 8kyu: Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c/javascript)
+- [CodeWars 8kyu: L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d/javascript)
+- [CodeWars 7kyu: Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024/javascript)
+- [CodeWars 6kyu: Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/javascript)
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Odd numbers](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/sumOfOddNumbers.js)
+- [Surface Area](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/surfaceAreaVolumeBox.js)
+- [bartender](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/l1-bartenderDrinks.js)
+- [stray](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/findTheStrayNumber.js)
+- [Duplicates](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/countingDuplicates.js)
