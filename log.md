@@ -209,7 +209,7 @@ EJS will not allow tags to be on a different line from the tags you are manipula
 - Created new format of resume
 
 
-### Day 13: August 6th, 2022
+### Day 13: August 6th, 2022 
 - Looked at old blog posts I started (and once again passed them up as terrible)
 - [CodeWars 7kyu: Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 - [CodeWars 8kyu: Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c/javascript)
@@ -226,3 +226,13 @@ EJS will not allow tags to be on a different line from the tags you are manipula
 - [bartender](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/l1-bartenderDrinks.js)
 - [stray](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/findTheStrayNumber.js)
 - [Duplicates](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/countingDuplicates.js)
+
+
+### Day 14: August 7th, 2022
+- [CodeWars 8kyu: Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
+- Worked on StoryBooks app
+
+**Thoughts**
+
+**Link(s) to Work**
+- [Derivative](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/takeTheDerivative.js)
