@@ -236,3 +236,13 @@ EJS will not allow tags to be on a different line from the tags you are manipula
 
 **Link(s) to Work**
 - [Derivative](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/takeTheDerivative.js)
+
+
+### Day 15: August 8th, 2022
+- continued work on StoryBooks app
+
+**Thoughts**
+Need to debug oauth2.0 in StoryBooks.
+
+**Link(s) to Work**
+- https://github.com/jenanemone/storybooks
