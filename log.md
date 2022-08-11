@@ -246,3 +246,20 @@ Need to debug oauth2.0 in StoryBooks.
 
 **Link(s) to Work**
 - https://github.com/jenanemone/storybooks
+
+### SKIP BO! August 9th, 2022
+- Drove 700 miles.
+
+### Day 16: August 10th, 2022
+- Studied ThreadPoolExecutor for Python.
+- Reviewed setup for game venture with @PocketProgram
+- [CodeWars 6kyu: Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
+- [CodeWars 7kyu: Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
+- [CodeWars 6kyu: Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+
+**Thoughts**
+
+**Link(s) to Work**
+- [Two Sum](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/twoSum.js)
+- [categorize](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/categorizeNewMember.js)
+- [bit counting](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/bitCounting.js)
