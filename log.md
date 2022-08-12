@@ -263,3 +263,24 @@ Need to debug oauth2.0 in StoryBooks.
 - [Two Sum](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/twoSum.js)
 - [categorize](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/categorizeNewMember.js)
 - [bit counting](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/bitCounting.js)
+
+
+### Day 17: August 11th, 2022
+- [CodeWars 6kyu: Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
+- [CodeWars 6kyu: Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+- [CodeWars 6kyu: Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c)
+- [CodeWars 8kyu: Find Whether the Shape is a Cube](https://www.codewars.com/kata/find-out-whether-the-shape-is-a-cube)
+- [CodeWars 8kyu: Grasshopper - If/else syntax debug](https://www.codewars.com/kata/grasshopper-if-slash-else-syntax-debug)
+- [CodeWars 7kyu: Return a string's even characters](https://www.codewars.com/kata/return-a-strings-even-characters)
+- StoryBooks project
+- Class!
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Delete occurences](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/deleteOccsMoreThanNtimes.js)
+- [Replace alphabet](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/replaceAlphabetPosition.js)
+- [Tortoise](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/tortoiseRacing.js)
+- [cube](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/shapeIsCube.js)
+- [if/else debug](https://github.com/jenanemone/codeWarsSolutions/blob/da36941f7c17e77ebc6adcbf3818687072278ba9/8kyu/grasshopper-ifElseDebug.js)
