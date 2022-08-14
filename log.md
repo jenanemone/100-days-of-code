@@ -276,11 +276,55 @@ Need to debug oauth2.0 in StoryBooks.
 - Class!
 
 **Thoughts**
-
+I need to review prototypes in JavaScript and method overriding. Some of that syntax is working me over.
 
 **Link(s) to Work**
 - [Delete occurences](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/deleteOccsMoreThanNtimes.js)
 - [Replace alphabet](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/replaceAlphabetPosition.js)
 - [Tortoise](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/tortoiseRacing.js)
 - [cube](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/shapeIsCube.js)
-- [if/else debug](https://github.com/jenanemone/codeWarsSolutions/blob/da36941f7c17e77ebc6adcbf3818687072278ba9/8kyu/grasshopper-ifElseDebug.js)
+- [if/else debug](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-ifElseDebug.js)
+
+
+### Day 18: August 12th, 2022
+- [CodeWars 7kyu: Is the String Uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+- [CodeWars 7kyu: Return String of First Characters](https://www.codewars.com/kata/return-string-of-first-characters)
+- [CodeWars 7kyu: Unique String Characters](https://www.codewars.com/kata/unique-string-characters)
+- [CodeWars 7kyu: Simple String Characters](https://www.codewars.com/kata/simple-string-characters)
+- [CodeWars 7kyu: Is my string repeating the same character over and over?](https://www.codewars.com/kata/is-my-string-repeating-the-same-character-over-and-over)
+- More work on StoryBooks: added a page to process story additions
+
+**Thoughts**
+Something is wrong with StoryBooks. It adds the stories themselves to the users collection in Mongo, although it does display correctly. 
+
+**Link(s) to Work**
+- [uppercase](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/isTheStringUppercase.js)
+- [First Characters](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/returnStrOfFirstChars.js)
+- [Unique Characters](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/uniqueStringChars.js)
+- [Simple Characters](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/simpleStringChars.js)
+- [Repeating Characters](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/stringRepeatingSameChar.js)
+- [StoryBooks!](https://github.com/jenanemone/storybooks)
+
+
+### Day 19: August 13th, 2022
+- [CodeWars 8kyu: Sleigh Authentication](https://www.codewars.com/kata/sleigh-authentication)
+- [CodeWars 7kyu: Thinkful - String Drills: Quotable](https://www.codewars.com/kata/thinkful-string-drills-quotable)
+- [CodeWars 7kyu: Remove Duplicate Words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
+- [CodeWars 7kyu: Valid Spacing](https://www.codewars.com/kata/valid-spacing)
+- [CodeWars 7kyu: Convert Hash to an Array](https://www.codewars.com/kata/convert-hash-to-an-array)
+- [CodeWars 7kyu: Find the Capitals](https://www.codewars.com/kata/find-the-capitals)
+- [LeetCode 75: 1480 Running Sum of 1D Array](ttps://leetcode.com/problems/running-sum-of-1d-array/)
+- Worked on Schidtter with David
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Sleigh](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/sleighAuthentication.js)
+- [Thinkful](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/thinkful-stringDrillsQuotable.js)
+- [Duplicate](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/removeDuplicateWords.js)
+- [Valid](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/validSpacing.js)
+- [Hash](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/convertHashToArray.js)
+- [Capitals](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/findTheCapitals.js)
+- [LeetCode 1480](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/1480runningSum1Darray.js)
+= [Schidtter](https://github.com/jenanemone/schidtter)
