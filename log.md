@@ -326,5 +326,41 @@ Something is wrong with StoryBooks. It adds the stories themselves to the users 
 - [Valid](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/validSpacing.js)
 - [Hash](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/convertHashToArray.js)
 - [Capitals](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/findTheCapitals.js)
-- [LeetCode 1480](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/1480runningSum1Darray.js)
-= [Schidtter](https://github.com/jenanemone/schidtter)
+- [LeetCode 1480: Running Sum of 1D Array](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/1480runningSum1Darray.js)
+- [Schidtter](https://github.com/jenanemone/schidtter)
+
+
+### Day 20: August 14th, 2022
+- StoryBooks project
+- [CodeWars 6kyu: Inside Out Strings](https://www.codewars.com/kata/57ebdf1c2d45a0ecd7002cd5/javascript)
+- Group learning session with Jordan Manley, Deja, and many more!
+- [LeetCode Easy 2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
+
+**Thoughts**
+I need to work with Set objects in JavaScript more. They are quite useful, but have different methods from arrays and objects.
+
+**Link(s) to Work**
+- [Inside Out](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/insideOutStrings.js)
+- [Rings and Rods](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/2103ringsAndRods.js)
+
+
+### Day 21: August 15th, 2022
+- [CodeWars 5kyu: Calculating with Functions brainstorming with Hector Coronado](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript)
+- Intro to React with Andre, et al.
+
+**Thoughts**
+I don't know functional programming very well. 
+
+**Link(s) to Work**
+Nothing to show today.
+
+
+### Day 22: August 16th, 2022
+- [CodeWars 5kyu: Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+- Class with Leon!
+
+**Thoughts**
+Using MVC paradigm to create your app gives you the ability to hot-swap! Super cool to make this connection finally.
+
+**Link(s) to Work**
+= [Calculating](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/calculatingWithFunctions.js)
