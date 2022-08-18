@@ -364,3 +364,15 @@ Using MVC paradigm to create your app gives you the ability to hot-swap! Super c
 
 **Link(s) to Work**
 = [Calculating](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/calculatingWithFunctions.js)
+
+
+### Day 23: August 17th, 2022
+- Finished StoryBooks MVP
+- Talked with Calvin Allen from New Relic
+- [CodeWars 5kyu: Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d)
+
+**Thoughts**
+
+**Link(s) to Work**
+- [StoryBooks!](https://github.com/jenanemone/storybooks)
+- [Recreation One](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/integers-RecreationOne.js)
