@@ -376,3 +376,51 @@ Using MVC paradigm to create your app gives you the ability to hot-swap! Super c
 **Link(s) to Work**
 - [StoryBooks!](https://github.com/jenanemone/storybooks)
 - [Recreation One](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/integers-RecreationOne.js)
+
+
+### Day 24: August 18th, 2022
+- [LeetCode Easy 819: Most Common Word](https://leetcode.com/problems/most-common-word/)
+- [LeetCode Easy 724: Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+
+**Thoughts**
+Most common word could be optimized by only adding words that aren't banned, and then going through the dictionary! 
+
+**Link(s) to Work**
+- [LeetCode Word](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/819-mostCommonWord.js)
+- [LeetCode Pivot](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/724-findPivotIndex.js)
+
+
+### Day 25: August 19th, 2022
+- [CodeWars 6kyu: Title Case](https://www.codewars.com/kata/5202ef17a402dd033c000009/train/javascript)
+- [Schitter MVP complete!](https://github.com/jenanemone/schidtter)
+- [LeetCode Easy: 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+- Practiced LeetCode problems in Python and JavaScript
+
+**Thoughts**
+Time to download someone's Anki deck on Python! I've forgotten so much of the syntax.
+
+**Link(s) to Work**
+- [Contains Duplicate](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/containsDuplicate.js)
+- [Title Case](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/titleCase.js)
+
+
+### Day 26: August 20th, 2022
+- practiced pair programming
+- [CodeWars 7kyu: Find the next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
+- [CodeWars 7kyu: Upper <body> strength](https://www.codewars.com/kata/571640812ad763313600132b)
+- [CodeWars 5kyu: Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+- Read about maximum subarray sum algorithms
+- [LeetCode 125: Valid Palindrome (in Python!)](https://leetcode.com/problems/valid-palindrome/)
+- Toyed with CSS on Schidtter
+= [LeetCode 704: Binary Search in 2 languages](https://leetcode.com/problems/binary-search/)
+
+**Thoughts**
+Still a bit rusty on the Python, but I'm improving! Found someone's Anki deck to get me started. I'll be pawing through it to see if it's worth using as a base for my learning.
+
+**Link(s) to Work**
+- [square](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/findTheNextPerfectSquare.js)
+- [upper](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/upperBodyStrength.js)
+- [subarray sum](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/maximumSubarraySum.js)
+- [palindrome](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/125-validPalindrome.py)
+- [binary search Python](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/704-binarySearch.py)
+- [binary search JavaScript](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/704-binarySearch.js)
