@@ -424,3 +424,51 @@ Still a bit rusty on the Python, but I'm improving! Found someone's Anki deck to
 - [palindrome](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/125-validPalindrome.py)
 - [binary search Python](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/704-binarySearch.py)
 - [binary search JavaScript](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/704-binarySearch.js)
+
+
+### Day 27: August 21st,2022
+- [LeetCode Easy 14: Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - JS & Python
+- [CodeWars 6kyu: Are they the same?](https://www.codewars.com/kata/550498447451fbbd7600041c)
+- [CodeWars 7kyu: Personalise Spammy Email](https://www.codewars.com/kata/57e402969cb1193746000744/train/javascript)
+- [CodeWars 7kyu: Linked Lists: Push & BuildOneTwoThree](https://www.codewars.com/kata/55be95786abade3c71000079/train/javascript)
+- Class with Jordan Manley of CodeTrack.dev
+- Worked on MVC blog post
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [prefix javascript](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/14-longestCommonPrefix.js)
+- [prefix python](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/14_longest_common_prefix.py)
+- [the same python](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/are_they_the_same.py)
+- [personalise](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/personalisingSpammyEmails.js)
+- [linkedLists: push](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/linkedList-pushBuild123.js)
+
+
+### Day 28: August 22nd, 2022
+- React study group with Andre, et alia
+- [CodeWars 7kyu: Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript)
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [DNA](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/complementaryDNA.js)
+
+
+### Day 29: August 23rd, 2022
+- Class with 100Devs
+- Worked on MVC lecture and a second blog post
+- Debugged Poornima's Heroku deployment
+- Deployed StoryBooks to Heroku with Poornima's help
+- [CodeWars 6kyu: Your Order Please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/javascript)
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [StoryBooks](https://jennies-storybooks.herokuapp.com/)
+- [order please](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/yourOrderPlease.js)
