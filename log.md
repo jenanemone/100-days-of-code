@@ -472,3 +472,73 @@ Still a bit rusty on the Python, but I'm improving! Found someone's Anki deck to
 **Link(s) to Work**
 - [StoryBooks](https://jennies-storybooks.herokuapp.com/)
 - [order please](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/yourOrderPlease.js)
+
+
+### Day 30: August 24th, 2022
+- Group review
+- Wrote way, way too much for a blog post
+- Helped debug a friend's Express app (albeit briefly)
+- [CodeWars 6kyu: Give Me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/javascript)
+
+
+**Thoughts**
+I don't think the diamond should have taken as long as it did, but I attempted it after midnight. I really have to manage the day better in order to meet my goals.
+
+**Link(s) to Work**
+- [Diamond](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/giveMeDiamond.js)
+
+
+### Day 31: August 25th, 2022
+- Published a blog post on MVC architecture!
+- Met lots of great folx at networking/prep for Huntober Remo night
+- [CodeWars 8kyu: Contamination #1 - String](https://www.codewars.com/kata/596fba44963025c878000039)
+- [CodeWars 8kyu: Get number from string](https://www.codewars.com/kata/57a37f3cbb99449513000cd8)
+- [CodeWars 7kyu: Switcheroo](https://www.codewars.com/kata/57f759bb664021a30300007d)
+- [CodeWars 6kyu: Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+- [CodeWars 6kyu: Consecutive Strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
+- [CodeWars 5kyu: String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/javascript)
+
+
+**Thoughts**
+I enjoy knowing that I can solve something with or without Regex. Glad Leon suggested that we work without it!
+
+
+**Link(s) to Work**
+- [MVC blog post](https://dev.to/jenanemone/why-you-should-use-the-model-view-controller-paradigm-24dn)
+- [contamination](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/contamination1-string.js)
+- [number from string](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/getNumberFromString.js)
+- [switcheroo](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/switcheroo.js)
+- [split strings](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/splitStrings.js)
+- [consecutive](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/consecutiveStrings.js)
+- [incrementer](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/stringIncrementer.js)
+
+
+### Day 32: August 26th, 2022
+- [CodeWars 8kyu: Add Length](https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript)
+- [CodeWars 7kyu: Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/javascript)
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Add Length](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/addLength.js)
+- [Two to One](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/twoToOne.js)
+
+
+
+### Day 33: August 27th, 2022
+- [Code Wars 7kyu: Build a Square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
+- [CodeWars 8kyu: No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)
+- [CodeWars 5kyu: Find the Unique String](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3/train/javascripts)
+
+
+**Thoughts**
+It took me 2 sessions to work through the notation for turning a Set into an array for Find the Unique String. This has gone into Anki, and for my notes here:
+```
+let arrFromSet = [... new Set(otherArray)]
+```
+Et voila!
+
+**Link(s) to Work**
+- [zeros](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/noZerosForHeros.js)
+- [square](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/buildSquare.js)
