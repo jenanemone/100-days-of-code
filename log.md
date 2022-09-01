@@ -542,3 +542,36 @@ Et voila!
 **Link(s) to Work**
 - [zeros](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/noZerosForHeros.js)
 - [square](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/buildSquare.js)
+
+
+### Day 34: August 28th, 2022
+- R & R on the River
+
+
+### Day 34: August 29th, 2022
+- Mock interview practice with Andre & friends
+
+
+### Day 35: August 30th, 2022
+- 100Devs class
+- Started a new group project with new folx!
+- [CodeWars 7kyu: Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/javascript)
+
+**Thoughts**
+- No one showed for my allotted group, but thankfully a new friend invited me.
+
+**Link(s) to Work**
+- [Jaden](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/jadenCase.js)
+
+
+### Day 36: August 31st, 2022
+- [CodeWars 7kyu: List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)
+- Attempted 2 mathy katas
+- Came up with a great idea with my 100Devs team for a project
+- Created a process to verify inventory data for a client
+
+**Thoughts**
+Math is so hard for me when I'm tired.
+
+**Link(s) to Work**
+- [Filtering](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/listFiltering.js)
