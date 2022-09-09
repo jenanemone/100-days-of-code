@@ -671,12 +671,25 @@ If you can't reach localhost, try killing some open ports!
 
 **Link(s) to Work**
 - [Stanton](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/stantonMeasure.js)
-
+ 
 
 ### Day 45: September 9th, 2022
 - Amazing coffee chat with Bas Steins
 - Reading NLP documentation
 - Attempted CodeWars too, too late!
+
+
+### Day 46: September 10th, 2022
+- [CodeWars 6kyu: Break Camel Case](https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript)
+- Hitlist
+- Started building in React
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Camel Case](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/breakCamelCase.js)
 
 
 
