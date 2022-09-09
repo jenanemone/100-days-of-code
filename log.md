@@ -575,3 +575,108 @@ Math is so hard for me when I'm tired.
 
 **Link(s) to Work**
 - [Filtering](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/listFiltering.js)
+
+
+### Day 37: September 1st, 2022
+- Inventory data analysis for client
+- Class with 100Devs
+- Mapping out group project, Operation Vacation
+- [CodeWars 7kyu: Count the Digits](https://www.codewars.com/kata/566fc12495810954b1000030/train/javascript)
+- Attempted Build Tower
+
+**Thoughts**
+Truly blessed to work with such a great team!
+
+**Link(s) to Work**
+- [Operation Vacation](https://docs.google.com/document/d/110OIc6XTvv-wuMysBlm0nncR8zYf_rfN6pu78o8g54s/edit)
+- [Digits](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/countTheDigits.js)
+
+
+### Day 38: September 2nd, 2022
+- Inventory historical data analysis for client
+- [CodeWars 7kyu: Remove Anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/javascript)
+- [CodeWars 7kyu: Two fighters, one winner](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/train/javascript)
+
+**Thoughts**
+Data analysis requires as much concnetration as does coding challenges.
+
+**Link(s) to Work**
+- [Anchor](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/removeAnchorFromURL.js)
+- [fighters](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/twoFightersOneWinner.js)
+
+
+### Day 39: September 3rd, 2022
+- Data, data, data
+- [CodeWars 7kyu: Summing a Number's Digits](https://www.codewars.com/kata/52f3149496de55aded000410/train/javascript)
+
+
+**Thoughts**
+I enjoyed performing an absolute value operation without using the Math.abs() method. I had thought about adding the number twice, but it just made sense to remove non-digit characters first. Voila!
+
+
+**Link(s) to Work**
+- [Summing](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/summingNumbersDigits.js)
+
+
+### Day 40: September 4th, 2022
+- Organized financial data for client
+- [CodeWars 6kyu: Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+- [CodeWars 8kyu: Training JS #5: Basic Data Types - Object](https://www.codewars.com/kata/571f1eb77e8954a812000837/solutions/javascript)
+
+
+**Thoughts**
+Definitely need to find more time for true coding. I'm missing it!
+
+
+**Link(s) to Work**
+- [Bouncing Balls](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/bouncingBalls.js)
+- [Basic Data Types](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/training5-object.js)
+
+
+### Day 41: September 5th, 2022
+- Completed part of data entry and analysis for client, finally!
+- Group project: vacation planner
+
+
+### Day 42: September 6th, 2022
+- Data analysis for client
+- Vacation planner progress
+- Class with 100Devs
+
+
+**Thoughts**
+If you can't reach localhost, try killing some open ports!
+
+
+**Link(s) to Work**
+- [vacation](https://github.com/kolourr/todo-mvc-auth-local)
+
+
+### Day 43: September 7th, 2022
+- Data analysis for client
+- Took the night off to recover from 100+ hours behind the keyboard in the last week!
+- Banki
+
+
+### Day 44: September 8th, 2022
+- Process plan & brainstorm with client
+- Started a new blog post
+- 100Devs social media app
+- Group meeting to plan a finance tracker
+- [CodeWars 7kyu: Stanton Measure](https://www.codewars.com/kata/59a1cdde9f922b83ee00003b/train/javascript)
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Stanton](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/stantonMeasure.js)
+
+
+### Day 45: September 9th, 2022
+- Amazing coffee chat with Bas Steins
+- Reading NLP documentation
+- Attempted CodeWars too, too late!
+
+
+
