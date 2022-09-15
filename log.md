@@ -683,13 +683,75 @@ If you can't reach localhost, try killing some open ports!
 - [CodeWars 6kyu: Break Camel Case](https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript)
 - Hitlist
 - Started building in React
+- [CodeWars 8kyu: No Loops 2: You only need one]()
+- [CodeWars 8kyu: The Wide-mouthed Frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
+- [CodeWars 7kyu: The Most Digits](https://www.codewars.com/kata/58daa7617332e59593000006/train/javascript)
+
+
+**Thoughts**
+I did it all myself! I came up with a mathy solution to a problem it seems everyone else solved with string conversion in "The Most Digits".
+
+**Link(s) to Work**
+- [Camel Case](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/breakCamelCase.js)
+- [Loops](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/theWide-mouthedFrog.js)
+- [Frog](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/theWide-mouthedFrog.js)
+- [Digits](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/theMostDigits.js)
+
+
+### Day 47: September 11th, 2022
+- [CodeWars 6kyu: Back, Forth, then Reverse](https://www.codewars.com/kata/60cc93db4ab0ae0026761232/javascript)
+- Back end review with 100Devs
+- Learned about the browser's media device methods
+- Scheduled a blog post
+- Hitlist
+- Reworded another blog post
+
+
+**Thoughts**
+I have a lot of great resources bookmarked. These will make some seriously good blog posts!
+
+**Link(s) to Work**
+- [Back, Forth](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/backForthReverse.js)
+
+
+### Day 48: September 12th, 2022
+- Edited a blog post
+- Solved Brynn's coding challenge
+- Learned bubble sort and selection sort with Andre, et al.
+- [LeetCode 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 
 **Thoughts**
 
 
 **Link(s) to Work**
-- [Camel Case](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/breakCamelCase.js)
+- [Brynn's Challenge](https://github.com/jenanemone/codingChallenges/blob/main/convertArray-BrynnsChallenge.js)
+- [LeetCode 26](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/26_remove_dupes_from_sorted_arr.py)
+- [MVC article](https://jenanemone.hashnode.dev/lessons-from-the-assembly-line)
 
 
+### Day 49: September 13th, 2022
+- Class with 100Devs
+- [CodeWars 8kyu: Regular Ball Super Ball](codewars.com/kata/53f0f358b9cb376eca001079/train/javascript)
+- Edited and scheduled my 2nd blog post 
 
+**Thoughts**
+I couldn't get in synch today.
+
+**Link(s) to Work**
+- [ball](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/regularBallSuperBall.js)
+- [fighting the coding challenge](https://jenanemone.hashnode.dev/stop-fighting-it-out-with-that-coding-challenge-and-win)
+
+
+### Day 50: September 14th, 2022
+- [CodeWars 7kyu: Moves in Squared Strings I](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/javascript)
+- [CodeWars 7kyu: Is this a Triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript)
+- Deeper into React 17/18
+
+
+**Thoughts**
+I knew it! React is exactly what I thought should exist the moment I got the gist of what was happening in 100Devs. It is sliced bread!
+
+**Link(s) to Work**
+- [moves](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/movesSquareString.js)
+- [triangle](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/isThisTrinagle.js)
