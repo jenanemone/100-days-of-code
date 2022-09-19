@@ -745,7 +745,10 @@ I couldn't get in synch today.
 
 ### Day 50: September 14th, 2022
 - [CodeWars 7kyu: Moves in Squared Strings I](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/javascript)
+- Stood up for a coffee chat
 - [CodeWars 7kyu: Is this a Triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript)
+- Working with other devs talk with Matthew Sanabria
+- Awesome friendly chat with other devs
 - Deeper into React 17/18
 
 
@@ -755,3 +758,58 @@ I knew it! React is exactly what I thought should exist the moment I got the gis
 **Link(s) to Work**
 - [moves](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/movesSquareString.js)
 - [triangle](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/isThisTrinagle.js)
+
+
+### Day 51: September 15th, 2022
+- Class with 100Devs
+- Updated Instagram clone
+- [CodeWars 8kyu: Training JS 6 - Booleans](https://www.codewars.com/kata/571f832f07363d295d001ba8/solutions/javascript)
+- Attempted a 6kyu
+
+**Thoughts**
+
+**Link(s) to Work**
+- [Booleans](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/trainingJS6-Booleans.js)
+- [clone](https://github.com/jenanemone/binary-upload-boom)
+
+
+### Day 52: September 16th, 2022
+- Back to puzzle out [CodeWars 6kyu: Maximum Depth of Nested Brackets](https://www.codewars.com/kata/60e4dfc1dc28e70049e2cb9d/train/javascript) 
+- Added comments and delete comments to Instagram clone
+- [CodeWars 7kyu: Bumps in the Road](https://www.codewars.com/kata/57ed30dde7728215300005fa/train/javascript)
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Bumps](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/bumpsInTheRoad.js)
+- [clone](https://github.com/jenanemone/binary-upload-boom)
+
+
+### Day 53: September 17th, 2022
+- CodeWars repeats with friends
+- [CodeWars 8kyu: Object Oriented Piracy](https://www.codewars.com/kata/object-oriented-piracy)
+- Studied React
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Piracy](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/objectOrientedPiracy.js)
+
+
+### Day 54: September 18th, 2022
+- [CodeWars 6kyu: Search the 0 Sums Combinations in an Array](https://www.codewars.com/kata/5711fc7c159cde6ac70003e2/train/javascript)
+- Created a Railway account and redeployed StoryBooks app
+- With the aid of Dmitri & Ryan, finally solved [CodeWars 6kyu: Maximum Depth of Nested Brackets](https://www.codewars.com/kata/60e4dfc1dc28e70049e2cb9d/train/javascript) 
+- [CodeWars 6kyu: Multiplication Table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)
+- Scrimba React course!
+- Further stuck on accepting live mic data
+
+**Thoughts**
+Railway was easy peasy. Sayonara, Heroku.
+
+**Link(s) to Work**
+- [brackets](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/maximumDepthNestedBrackets.js)
+- [multiplication](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/multiplicationTable.js)
