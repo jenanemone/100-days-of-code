@@ -813,3 +813,103 @@ Railway was easy peasy. Sayonara, Heroku.
 **Link(s) to Work**
 - [brackets](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/maximumDepthNestedBrackets.js)
 - [multiplication](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/multiplicationTable.js)
+
+
+### Day 55: September 19th, 2022
+- [CodeWars 7kyu: Factorial](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train/javascript)
+- [CodeWars 8kyu: Do you Speak English?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058/javascript)
+- [CodeWars 6kyu: Consonant Value](https://www.codewars.com/kata/59c633e7dcc4053512000073/javascript)
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Factorial](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/factorial.js)
+- [English](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/doYouSpeakEnglish.js)
+- [Consonant](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/consonantValue.js)
+- Amazing meeting with Andre, Robert Bucchardt
+
+
+### Day 56: September 20th, 2022
+- [LeetCode 1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
+- [LeetCode 1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+- Imposture mic connection working
+- Debug Matt's project
+- Build file structure for Imposture
+- Debug Morgan's project
+
+**Thoughts**
+I have forgotten most of my SQL. Swell. It does get easier pretty quickly.
+
+Building the whole shebang for Imposture is daunting.
+
+I got pretty confused helping Matt with his character sheet.
+
+**Link(s) to Work**
+- [Employee]()
+- [Low Fat]()
+- [Imposture](https://github.com/jenanemone/imposture)
+
+
+### Day 57: September 21st, 2022
+- Mapped out Imposture MVP structure with Poornima
+- Failed at connecting MongoDB!
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Imposture](https://github.com/jenanemone/imposture)
+
+
+### Day 58: September 22nd, 2022
+- Fixed Mongo issue on Imposture
+- Got frontend templating in rough shape
+- Learned more about Remix with Andre and Amy
+- [CodeWars 7kyu: Tidy Numbers](https://www.codewars.com/kata/5a87449ab1710171300000fd/train/javascript)
+
+**Thoughts**
+I wish I'd learned more about templating before, you know, the last minute. I really should build in React with Tailwind.
+
+**Link(s) to Work**
+- [Imposture](https://github.com/jenanemone/imposture)
+- [Tidy](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/tidyNumbers.js)
+
+
+### Day 59: September 23rd, 2022
+- [CodeWars 7kyu: Coding 3min: Bug in Apple](https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9/train/javascript)
+- Fixed promptCentral landing page in Imposture
+
+**Thoughts**
+
+
+**Link(s) to Work**
+-[Bug](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/coding3min-BugInApple.js)
+
+
+### Day 60: September 24th, 2022
+- [CodeWars 5kyu: ROT13](https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript)
+- [CodeWars 8kyu: Tip Calculator](https://www.codewars.com/kata/56598d8076ee7a0759000087/train/javascript)
+- Fixed some routes
+- Tangled with microphone
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [ROT13](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/rot13.js)
+- [tip](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/tipCalculator.js)
+
+
+### Day 61: September 25th, 2022
+- Got mic working in Imposture
+- Built tic-tac-toe in React
+
+**Thoughts**
+Can't wait to get back to the track. My thinking feels muddled without exercise.
+
+**Link(s) to Work**
+- [react-tac-toe](https://github.com/jenanemone/react-tac-toe)
+- [Imposture](https://github.com/jenanemone/imposture)
