@@ -913,3 +913,47 @@ Can't wait to get back to the track. My thinking feels muddled without exercise.
 **Link(s) to Work**
 - [react-tac-toe](https://github.com/jenanemone/react-tac-toe)
 - [Imposture](https://github.com/jenanemone/imposture)
+
+
+### Day 62: September 26th, 2022
+- Wrestled with Imposture
+- Technical interview training with Andre, et alia
+- DOM - Fetch - Network (and others) solution
+
+
+**Thoughts**
+Make sure if penetrating an object within an array using the reduce method that you pass the argument designating the amount at which to start the accumulator. Otherwise, the magic of reduce doesn't know what to do!
+
+**Link(s) to Work**
+- [DOM](https://github.com/jenanemone/codingChallenges/DOM-fetch-networkWithAndre.js)
+
+
+### Day 63: September 27th, 2022
+- Class with Leon and friends
+- Working on debugging Imposture 
+
+
+
+### Day 64: September 28th, 2022
+- [CodeWars 8kyu: Grasshopper Check for Factor](https://www.codewars.com/kata/grasshopper-check-for-factor)
+- [CodeWars 8kyu: Grasshopper Grade Book](https://www.codewars.com/kata/grasshopper-grade-book)
+- [CodeWars 7kyu: Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/solutions/javascript)
+- [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/5853213063adbd1b9b0000be/train/javascript)
+- Progress on Imposture
+- Refactoring Schidtter
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [factor](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-CheckForFactor.js)
+- [grade book](https://github.com/jenanemone/codeWarsSolutions/blob/main/8kyu/grasshopper-gradebook.js)
+- [reverse](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/reverseWords.js)
+- [fighter](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/streetFighter2-characterSelection.js)
+- [Imposture](https://github.com/jenanemone/imposture)
+- [Schidtter](https://github.com/jenanemone/schidtter)
+
+
+### Day 65: September 29th, 2022
+- React! 
+- Imposture
