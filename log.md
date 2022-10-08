@@ -957,3 +957,76 @@ Make sure if penetrating an object within an array using the reduce method that 
 ### Day 65: September 29th, 2022
 - React! 
 - Imposture
+
+
+### Day 66: September 30th, 2022
+- Imposture 
+
+**Thoughts**
+Halp! I'm goin bald!
+
+
+### Day 67: October 1st, 2022
+- Imposture
+
+**Thoughts**
+- Reached out for help. 
+
+
+### Day 68: October 2nd, 2022
+- Reviewing routing and more in BUB
+- Imposture research
+- Debugging
+
+
+### Day 69: October 3rd, 2022
+- Incorporated Speechly STT into Imposture
+- Coding challenges with a friend
+- Fairy jobmother 
+- Portfolio design reviews
+
+
+### Day 70: October 4th, 2022
+- Shipped MVP of Imposture
+- Class with 100Devs
+- Day 1 of Huntober Strings challenge
+- Day 2 of Huntober Strings challenge
+
+
+### Day 71: October 5th, 2022
+- [CodeWars 5kyu: Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+- Started refactoring Schidtter into React
+- Day 3 of Huntober Strings challenge
+- Day 4 of Huntober Strings challenge
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [scramblies](https://github.com/jenanemone/codeWarsSolutions/blob/main/5kyu/scramblies.js)
+- [schidtter](https://github.com/jenanemone/imposture-vite-react)
+- [day 3](https://github.com/jenanemone/codingChallenges/blob/main/huntoberChallenges/huntoberStringsDay3.js)
+- [day 4](https://github.com/jenanemone/codingChallenges/blob/main/huntoberChallenges/huntoberStringsDay4.js)
+
+
+### Day 72: October 6th, 2022
+- CodeWars with friends
+- Class with 100Devs
+- Imposture 
+- Tangled with Tailwind & DaisyUI
+
+
+### Day 73: October 7th, 2022
+- Imposture styling & logic
+- Got Tailwind & DaisyUI under control with some help
+- Coding challenges with a friend
+- Helped a friend debug their code
+
+**Thoughts**
+I really want to understand why I had so much trouble with DaisyUI and Tailwind. I think there should be some more documentation created about what's happening - and why.
+
+For another feature of Imposture, I'd like to add the chance to speak verbally with a bot. How cool would it be, even if it's just a synth style of voice?
+
+**Link(s) to Work**
+- [Imposture](https://github.com/jenanemone/imposture)
+
