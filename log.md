@@ -1030,3 +1030,62 @@ For another feature of Imposture, I'd like to add the chance to speak verbally w
 **Link(s) to Work**
 - [Imposture](https://github.com/jenanemone/imposture)
 
+
+### Day 74: October 8th, 2022
+- Imposture (lawd halp me!)
+
+
+### Day 75: October 9th, 2022
+- Imposture
+
+
+### Day 76: October 10th, 2022
+- Imposture
+
+
+### Day 77: October 11th, 2022
+- 100Devs first standup
+- class with 100Devs
+- [CodeWars 7kyu: Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2/)
+
+**Thoughts**
+So happy to hear we have another week on our projects!! Hope I can get stuff done while I'm on vacay.
+
+**Link(s) to Work**
+- [greet me](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/greetMe.js)
+
+
+### Day 78: October 12th, 2022
+- [finished Huntober Strings Days 5 challenge (I think!)](https://blog.barbaralaw.me/huntober-2022-day-5)
+- [Huntober Strings Day 6](https://blog.barbaralaw.me/huntober-2022-day-6)
+
+
+**Thoughts**
+These Huntober challenges are showing me I still have a long way to go to be as strong a coder as I feel I should be!
+
+**Link(s) to Work**
+- [Day 5](https://github.com/jenanemone/codingChallenges/blob/main/huntoberChallenges/huntoberStringsDay5.js)
+- [Day 6](https://github.com/jenanemone/codingChallenges/blob/main/huntoberChallenges/huntoberStringsDay6.js)
+
+
+### Day ??: October 17th, 2022
+- Class with Andre, etc.
+- [Started Day 7](https://blog.barbaralaw.me/huntober-2022-day-7)
+
+**Thoughts**
+Not sure hw to apply the day 5 logic to the strings week final challenge. Doesn't look like the right answer thus far.
+
+It's good to be back in the saddle.
+
+
+### Day ??: October 18th, 2022
+- [CodeWars 6kyu: The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa/train/javascript)
+- Algos class with Leon
+
+
+**Thoughts**
+
+
+**Link(s) to Work**
+
+
