@@ -1068,7 +1068,7 @@ These Huntober challenges are showing me I still have a long way to go to be as 
 - [Day 6](https://github.com/jenanemone/codingChallenges/blob/main/huntoberChallenges/huntoberStringsDay6.js)
 
 
-### Day ??: October 17th, 2022
+### Day 79: October 17th, 2022
 - Class with Andre, etc.
 - [Started Day 7](https://blog.barbaralaw.me/huntober-2022-day-7)
 
@@ -1078,7 +1078,7 @@ Not sure hw to apply the day 5 logic to the strings week final challenge. Doesn'
 It's good to be back in the saddle.
 
 
-### Day ??: October 18th, 2022
+### Day 80: October 18th, 2022
 - [CodeWars 6kyu: The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa/train/javascript)
 - Algos class with Leon
 
@@ -1089,3 +1089,127 @@ It's good to be back in the saddle.
 **Link(s) to Work**
 
 
+### Day 81: November 2nd, 2022
+- [CodeWars 7kyu: Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0/train/javascript)
+- Reviewed closures in JavaScript, promises, and event delegation
+- Prepared for an interview
+- Worked with the amazing George on [6 kyu: Parse Bank Account Number](https://www.codewars.com/kata/597eeb0136f4ae84f9000001/train/javascript)
+
+**Thoughts**
+Made a new friend! George is great.
+
+**Link(s) to Work**
+-[char](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/sortByLastChar.js)
+
+
+### Day 82: November 3rd, 2022
+**Plans**
+- practice Banki
+- React
+- Algos
+- 1 LeetCode/CW
+- class with Leon
+- class with Andre
+- interview prep
+
+**Accomplished**
+- practiced Banki
+- class with Leon
+- class with Andre
+- interview prep with David
+- [LeetCode 136. Single Number](https://leetcode.com/problems/single-number/description/)
+
+**Thoughts**
+
+
+**Link(s) to Work**
+- [Single](https://github.com/jenanemone/codingChallenges/blob/main/leetcode_solutions/136-singleNumber.js)
+
+
+### Day 83: November 4th, 2022
+**Plans**
+- practice Banki
+- React
+- Algos
+- 1 LeetCode/CW
+- interview
+- coffee chat
+
+**Accomplished**
+- [7kyu: Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)
+- React course
+- coffee chat stood me up but rescheduled
+- interview submitted
+
+
+**Link(s) to Work**
+- [Printer](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/printerErrors.js)
+
+
+### Day 84: November 5th, 2022
+- More Egghead.io React
+- [CodeWars 7kyu: Number of People on the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript)
+
+
+**Thoughts**
+Took seconds to do this Codewars. First tryyyy!
+
+
+**Link(s) to Work**
+- [bus](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/numberOfPeopleOnTheBus.js)
+
+
+### Day 85: November 6th, 2022
+- Styled Imposture landing page
+
+
+### Day 86: November 7th, 2022
+- [CodeWars 7kyu: Lost Num in Sequence](https://www.codewars.com/kata/595aa94353e43a8746000120/train/javascript)
+
+
+**Thoughts**
+If it's in sequence, and you're looking for a missing number between two arrays, you can just find the difference in the sum of each. Of course that relies on using reduce() twice. 
+
+**Link(s) to Work**
+- [lost](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/lostNumInNumSequence.js)
+
+
+## November 8th, 2022
+REST DAY
+
+
+### Day 87: November 9th, 2022
+- Pair programming with Ken
+- Pair programming with David
+- Coffee chat with Ryan Hawkins
+- [CodeWars 6kyu: Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
+- [CodeWars 6kyu: Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/train/javascript)
+- [CodeWars 5kyu: Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/javascript)
+
+
+### Day 88: November 10th, 2022
+- Updated README for Imposture
+- Strategized how to implement the speech page of Imposture with Mongo
+- Started uploading Imposture notes to Issues
+- Final class of 100Devs
+- Began updating portfolio
+
+
+### Day 89: November 11th, 2022
+- Improved portfolio summor
+- Coffee chat with Allison Zadrozny (Bonsai.io)
+
+### November 12th, 2022:
+REST DAY
+
+
+### Day 90: November 13th, 2022
+- [CodeWars 7kyu: Round up to the nearest multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript)
+- React with Egghead.io
+
+
+### Day 91: November 14th, 2022
+- Reviewed Linked Lists with Ryan 
+- [CodeWars 7kyu: Find the Middle Element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755) review of algorithms
+- React with Andre and friends
+- [CodeWars 7kyu: List of presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript)
