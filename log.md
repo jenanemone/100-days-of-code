@@ -1213,3 +1213,65 @@ REST DAY
 - [CodeWars 7kyu: Find the Middle Element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755) review of algorithms
 - React with Andre and friends
 - [CodeWars 7kyu: List of presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript)
+
+**Thoughts**
+Felt out of sorts today. Need to get back to healthy! Also, why did the list of presents give me so much of an issue?
+
+**Link(s) to Work**
+- [presents](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/listOfPresents.js)
+- [middle](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/findTheMiddleElement.js)
+
+
+### Day 92: November 15th, 2022
+- Reviewed Banki with Julean
+- [Codewars 6kyu: Sort the Odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript)
+
+
+**Thoughts**
+First try on the Codewars! Could have been cleaner, but being ill, I think that's pretty skippy.
+
+**Link(s) to Work**
+- [odd](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/sortTheOdd.js)
+
+
+### Day 93: November 16th, 2022
+- Interview with Williams
+- Signed up for Monster.com
+- Doctor
+
+
+### Day 94: November 17th, 2022
+- [Codewars 6kyu: Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript)
+
+
+### Day 95: November 21st, 2022
+- Primagean's DSA class with Ryan
+- [Codewars 6kyu: Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/javascript)
+- [Codewars 7kyu: No Oddities Here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/javascript)
+
+**Thoughts**
+This 6kyu should have been more obvious. I hate being sick. 
+
+**Link(s) to Work**
+- [repetition](https://github.com/jenanemone/codeWarsSolutions/blob/main/6kyu/charWithLongestConsecutiveReps.js)
+- [oddities](https://github.com/jenanemone/codeWarsSolutions/blob/main/7kyu/noOdditiesHere.js)
+
+
+### Day 96: November 28th, 2022
+- [Codewars 6kyu: String Array Duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069)
+
+### Day 97: November 29th, 2022
+- [Codewars 7kyu: Absent Vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c/train/javascript)
+- [Codewars 6kyu: Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript)
+- study sesh with David and Morgan
+- Attempted [Codewars 6kyu](https://www.codewars.com/kata/637d1d6303109e000e0a3116/train/javascript)
+
+**Thoughts**
+Why does my regex not work for all cases? 
+
+### Day 98: December 1st, 2022
+- [Codewars 8kyu: Enumerable Magic #4 - True for None?](https://www.codewars.com/kata/545993ee52756d98ca0010e1)
+- Attempted but not fully understanding [Codewars 7kyu: Deoderant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/train/javascript)
+
+**Thoughts**
+Having a flu-ey headache today, makes thinking more difficult. Not sure what I don't understand on the evaporator.
